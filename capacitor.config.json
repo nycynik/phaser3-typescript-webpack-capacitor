@@ -1,0 +1,7 @@
+{
+  "appId": "net.theinfluence.tracer",
+  "appName": "Tracer",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
